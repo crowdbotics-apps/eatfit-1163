@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT eatfit_1163.wsgi:application
